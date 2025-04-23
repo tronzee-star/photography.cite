@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: url(./../pics/photography/sn2.png) center/cover no-repeat;
+  background-color: aqua;
   color: #333;
 }
 header {
