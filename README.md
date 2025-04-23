@@ -6,4 +6,4 @@ the users can navigate through my about, gallery and design
 
 here is the link: https://tronzee-star.github.io/photography.cite
 
-all rights reserved c2025
+©2025 all rights reserved
